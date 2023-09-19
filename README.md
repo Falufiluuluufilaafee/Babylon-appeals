@@ -1,4 +1,4 @@
-# Discord Ban Appeals
+# Babylon Ban Appeals
 
 This is a form that allows users to appeal their bans from a Discord server.
 
